@@ -1,0 +1,15 @@
+mode;place;driver
+Q;1;LEC
+Q;2;HAM
+Q;3;VER
+Q;4;GAS
+Q;5;SAI
+Q;7;PER
+R;1;PER
+R;2;VET
+R;3;GAS
+R;4;LEC
+R;5;NOR
+R;8;SAI
+R;15;HAM
+R;-1;VER

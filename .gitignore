@@ -1,0 +1,11 @@
+apikey.py
+*.pyc
+/.idea
+#*.csv
+*.zip
+
+
+listofnames.txt
+chatids.txt
+chatids_all.txt
+*.log

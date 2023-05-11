@@ -1,0 +1,12 @@
+mode;place;driver
+Q;1;VER
+Q;2;NOR
+Q;3;PER
+Q;4;HAM
+Q;5;BOT
+R;1;VER
+R;2;BOT
+R;3;NOR
+R;4;HAM
+R;5;SAI
+R;6;PER

@@ -1,0 +1,13 @@
+mode;place;driver
+Q;1;LEC
+Q;2;VER
+Q;3;BOT
+Q;6;GAS
+Q;7;HAM
+R;1;VER
+R;2;SAI
+R;3;NOR
+R;4;PER
+R;5;VET
+R;7;HAM
+R;-1;BOT

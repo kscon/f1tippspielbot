@@ -1,0 +1,9 @@
+mode;place;kevin;jannes
+Q;1;VER;PER
+Q;2;PER;VER
+Q;3;GAS;SAI
+R;1;VER;VER
+R;2;PER;LEC
+R;3;HAM;SAI
+R;4;LEC;PER
+R;5;SAI;HAM
